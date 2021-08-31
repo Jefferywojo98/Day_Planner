@@ -15,6 +15,6 @@ THEN the text for that event is saved in local storage
 WHEN YOU refresh the page
 THEN the saved events persist
 ```
-![Screenshot](C:\Users\jeffe\Bootcamp\Day_Planner\image\screencapture-file-C-Users-jeffe-Bootcamp-Day-Planner-text-html-2021-08-28-13_33_40 (1).png)
+![Screenshot](/asset/image/homescreen.png)
 ![Deploy App](https://jefferywojo98.github.io/Day_Planner/)
 ![Deploy Demo](https://github.com/Jefferywojo98/Day_Planner)
